@@ -1,6 +1,6 @@
 # Big Data Platform with Spark
 
-This repository contains coursework from the **Big Data Platform** course at National Yang Ming Chiao Tung University (NYCU).
+This repository contains coursework from the **Big Data Analytics and technique** course at NYCU.
 
 The course focuses on understanding the architecture of modern big data platforms and performing large-scale data analysis using distributed computing frameworks.
 
