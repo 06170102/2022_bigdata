@@ -10,8 +10,7 @@ The course focuses on understanding the architecture of modern big data platform
 - Distributed Data Processing
 - Hadoop Ecosystem
 - Apache Spark for Data Analytics
-- Cloud-based Big Data Processing
-
+- 
 ## Tech Stack
 
 - Hadoop
@@ -31,7 +30,6 @@ The repository includes:
 - Understand the architecture of big data platforms
 - Gain hands-on experience with distributed computing frameworks
 - Perform large-scale data processing using Spark
-- Deploy big data workloads on cloud platforms
 
 ## Repository Structure
 
